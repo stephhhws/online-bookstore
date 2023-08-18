@@ -7,6 +7,7 @@ This is a full-stack website application for an online book store e-commerce, wh
 ![Home Image](04-work-sample/changeSize.png)
 ![Cart Image](04-work-sample/cart.png)
 ![History Image](04-work-sample/orderHistory.png)
+![Checkout Image](04-work-sample/history.png)
 
 ## Features
 * Create a Customer Account:
