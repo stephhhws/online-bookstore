@@ -1,5 +1,5 @@
 # World of Words - Online Book Store E-commerce
-![Logo](./Desktop/fullstack-angular-and-springboot-master/03-frontend/angular-ecommerce/src/assets/logo.png)
+![Logo](./03-frontend/angular-ecommerce/src/assets/logo.png)
 
 ## Introduction
 This is a full-stack website application for an online book store e-commerce, which allows customers to browse and purchase the products. This project demonstrates the ability to integrate Angular frontend, Spring Boot backend and mySQL database.
